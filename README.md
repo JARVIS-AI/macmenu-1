@@ -2,7 +2,7 @@
 
 Made with great frustration, and some JavaScript.
 
-[🚀 Live Site](https://localhost:3000)
+[🚀 Live Site](http://localhost:3000)
 
 ## Development Setup
 
