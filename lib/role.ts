@@ -49,6 +49,10 @@ export const data = {
       label: "ring borne",
       href: "",
       spawn: 1,
+      
     },
+    "/call": {
+      Link:
+      },
   },
 };
